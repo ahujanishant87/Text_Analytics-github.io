@@ -5,7 +5,7 @@ Fake online review detection in healthcare sector using sentiment analysis, revi
 1. Retrieve the data
 2. Clean the data
 3. Perform EDA
-4. Perform feature engineering to derive POS tagging, sentiment calculation and ratios derivation (Noun to noun ratio), average words per sentence and a few others
+4. Perform feature engineering and utilize NLP to derive POS tagging, sentiment calculation and ratios derivation (Noun to noun ratio), average words per sentence and a few others
 5. Build the SCM classification model
 6. Meausre the model's performance using relevant performance metrics
 

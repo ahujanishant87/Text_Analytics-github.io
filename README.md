@@ -14,4 +14,5 @@ Fake online review detection in healthcare sector using sentiment analysis, revi
 
 ### Insights:
 1. Main finding is that accuracy of model increases by approximately 5% when part-of-speech and sentiment score are used as inputs to the model.
-2. Ssignificant difference between the polarity scores of fake and honest reviews can be noticed
+2. significant difference between the polarity scores of fake and honest reviews can be noticed
+3. Model implemented found to be accurate upto 86% for the dataset undertaken.

@@ -1,5 +1,5 @@
 ### Project Aim: 
-Fake online review detection in healthcare sector using sentiment analysis, review attributes and support vector machine learning. Online reviews are considered as a primary source of information for consumers before buying a product or service including healthcare. Online reviews can be fake which are posted either to attract consumers by misleading them or may cause a negative effect on a business by posting wrong information
+Fake online review detection in healthcare sector using sentiment analysis, review attributes and support vector machine learning. Online reviews are considered as a primary source of information for consumers before buying a product or service including healthcare. Online reviews can be fake which are posted either to attract consumers by misleading them or may cause a negative effect on a business by posting wrong information. This project aims to build a model to detect fake reviews by exploring the sentiment analysis and POS features used in fake or real reviews.
 
 ### Tasks:
 1. Retrieve the data
